@@ -1,4 +1,1 @@
-Nome da Dupla: Luiz Felipe Cabral Lima 20204789,
-Nicolas Elias Sant'Ana 20200419. 
-
-Projeto Jogo da Memória em VHDL.
+# EEL5105 - Circuitos e tecnicas digitais 2021 - Projeto Jogo da Memória em VHDL.
